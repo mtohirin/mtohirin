@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Tohirin</h1>
-<h3 align="center">Fimish what you started</h3>
+<h3 align="center">Finish what you started</h3>
 
 - 🎓 I'm a Fresh Graduate with a strong interest in **Programing**
 
